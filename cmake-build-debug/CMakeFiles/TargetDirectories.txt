@@ -1,0 +1,15 @@
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/CMakeFiles/sdl-proof-of-concept.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/CMakeFiles/install/local.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/CMakeFiles/install.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/CMakeFiles/list_install_components.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/sdl/CMakeFiles/rebuild_cache.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/sdl/CMakeFiles/SDL2-static.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/sdl/CMakeFiles/SDL2main.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/sdl/CMakeFiles/install/local.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/sdl/CMakeFiles/install.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/sdl/CMakeFiles/edit_cache.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/sdl/CMakeFiles/SDL2.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/sdl/CMakeFiles/uninstall.dir
+B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/sdl/CMakeFiles/list_install_components.dir

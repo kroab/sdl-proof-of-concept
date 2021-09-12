@@ -1,0 +1,57 @@
+Performing C SOURCE FILE Test HAVE_XINPUT_GAMEPAD_EX failed with the following output:
+Change Dir: B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_9696d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_9696d.dir\build.make /nologo -L                  CMakeFiles\cmTC_9696d.dir\build
+Building C object CMakeFiles/cmTC_9696d.dir/src.c.obj
+	C:\PROGRA~2\MICROS~3\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bart\AppData\Local\Temp\nm684C.tmp
+src.c
+B:\school\projects\jaar4\project\proofOfConcepts\sdl-proof-of-concept\cmake-build-debug\CMakeFiles\CMakeTmp\src.c(4): error C2061: syntax error: identifier 'x1'
+B:\school\projects\jaar4\project\proofOfConcepts\sdl-proof-of-concept\cmake-build-debug\CMakeFiles\CMakeTmp\src.c(4): error C2059: syntax error: ';'
+NMAKE : fatal error U1077: 'C:\PROGRA~2\MICROS~3\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Source file was:
+
+      #include <windows.h>
+      #include <xinput.h>
+      XINPUT_GAMEPAD_EX x1;
+      int main(int argc, char **argv) { }
+Performing C SOURCE FILE Test HAVE_XINPUT_STATE_EX failed with the following output:
+Change Dir: B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_98d7c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_98d7c.dir\build.make /nologo -L                  CMakeFiles\cmTC_98d7c.dir\build
+Building C object CMakeFiles/cmTC_98d7c.dir/src.c.obj
+	C:\PROGRA~2\MICROS~3\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bart\AppData\Local\Temp\nm69B3.tmp
+src.c
+B:\school\projects\jaar4\project\proofOfConcepts\sdl-proof-of-concept\cmake-build-debug\CMakeFiles\CMakeTmp\src.c(4): error C2061: syntax error: identifier 's1'
+B:\school\projects\jaar4\project\proofOfConcepts\sdl-proof-of-concept\cmake-build-debug\CMakeFiles\CMakeTmp\src.c(4): error C2059: syntax error: ';'
+NMAKE : fatal error U1077: 'C:\PROGRA~2\MICROS~3\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Source file was:
+
+      #include <windows.h>
+      #include <xinput.h>
+      XINPUT_STATE_EX s1;
+      int main(int argc, char **argv) { }
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: B:/school/projects/jaar4/project/proofOfConcepts/sdl-proof-of-concept/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_85787\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_85787.dir\build.make /nologo -L                  CMakeFiles\cmTC_85787.dir\build
+Building C object CMakeFiles/cmTC_85787.dir/CheckIncludeFile.c.obj
+	C:\PROGRA~2\MICROS~3\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bart\AppData\Local\Temp\nm8F0E.tmp
+CheckIncludeFile.c
+B:\school\projects\jaar4\project\proofOfConcepts\sdl-proof-of-concept\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+NMAKE : fatal error U1077: 'C:\PROGRA~2\MICROS~3\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
