@@ -1,1 +1,4 @@
-libraries
+libraries/*
+cmake-build-debug
+
+!libraries/download-libs.sh
